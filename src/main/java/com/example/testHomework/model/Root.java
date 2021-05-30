@@ -21,22 +21,6 @@ public class Root {
 
         private String name;
 
-//        public String getName() {
-//            return name;
-//        }
-
-//        public void setName(String name) {
-//            this.name = name;
-//        }
-//
-//        public List<Person> getPersonList() {
-//            return personList;
-//        }
-//
-//        public void setPersonList(List<Person> personList) {
-//            this.personList = personList;
-//        }
-
         @OneToMany
         private List<Person> personList;
 

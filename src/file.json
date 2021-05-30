@@ -1,0 +1,24 @@
+{
+  "name": "list of people",
+  "personList": [
+    {
+      "lastName": "Ivanov",
+      "firstName":  "Ivan",
+      "address": "Stroiteley, 5",
+      "city":  "Moscow"
+    },
+    {
+      "lastName": "Petrov",
+      "firstName":  "Petr",
+      "address": "Lenina, 21",
+      "city":  "Tula"
+
+    },
+    {
+      "lastName": "Sidorov",
+      "firstName":  "Dmitriy",
+      "address": "Lesnaya, 5",
+      "city":  "Samara"
+    }
+  ]
+}
